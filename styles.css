@@ -72,13 +72,14 @@ main{
   background-color:#FEF2BF;
   width: 75vw;
   min-height: 40vh;
-  max-height: 55vh;
+  max-height: 75vh;
   padding: 10px 20px;
   margin: 10% auto;
   position: relative;
   font-family: monospace;
   font-size: 1.5rem;
   text-align: justify;
+  overflow: auto;
 }
 
 .modal-header, .close-link-container{
